@@ -4,7 +4,7 @@
 A fun and interactive **U.S.A. state guessing game** built using **Python**,**Pandas** and **Turtle graphics**. Test your knowledge of U.S. states by guessing their names and placing them on the map!  
 
 ## 🎮 How to Play  
-- A **blank U.S. map** appears on the screen.  
+- A **blank U.S.A. map** appears on the screen.  
 - A prompt asks you to **guess the name of a U.S.A. state**.  
 - If your answer is correct, the state's name appears at its location on the map.  
 - The game continues until you correctly guess all **50 states** or choose to exit.  
