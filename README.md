@@ -45,10 +45,6 @@ pip install pandas turtle
 python main.py
 ```  
 
-## 🎯 Future Improvements  
-- Add a **timer mode** for a more challenging experience  
-- Implement **hints** when players struggle to guess states  
-- Display **final score** and performance stats at the end  
 
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to **fork** the repo, make improvements, and submit a **pull request**.  
