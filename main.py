@@ -11,7 +11,7 @@ df=pd.read_csv("50_states.csv")
 states=df["state"].to_list()
 guessed_state=[]
 while len(guessed_state)<50:
-    answer_state=screen.textinput(title=f"{len(guessed_state)}/50 states correct",prompt="what's another states name").title()
+    answer_state=screen.textinput(title=f"{len(guessed_state)}/50 states correct",prompt="what's another state's name").title()
     if answer_state=="Exit":
         missing_states=[]
         for state in states:
